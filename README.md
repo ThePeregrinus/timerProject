@@ -23,3 +23,5 @@ A timer that counts the time that a person spent on studying theory and counts b
 ## How to launch
 - Firstly you have to install some npm packages by writting `npm install` command
 - Secondly do `npm start` command 
+
+## Some screenshots of the project
