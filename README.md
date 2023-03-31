@@ -26,4 +26,4 @@ A timer that counts the time that a person spent on studying theory and counts b
 
 ## Screenshots 
 ![pic](/screenshots/tm1.PNG/?raw=true "")
-![pic](/screenshots/tm2.PNG?raw=true ")
+![pic](/screenshots/tm2.PNG?raw=true "")
