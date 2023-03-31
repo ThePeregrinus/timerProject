@@ -4,8 +4,8 @@ This project was generated using [Nx](https://nx.dev).
 
 
 ## Authors
--MFGod
--ThePeregrinus
+- MFGod
+- ThePeregrinus
 
 ## What's the project about?
 A timer that counts the time that a person spent on studying theory and counts back the time for practice
@@ -15,3 +15,11 @@ A timer that counts the time that a person spent on studying theory and counts b
 - changeable language ( RU | ENG )
 - pause 
 - close session
+
+## Used techologies
+- React 
+- Styled components
+
+## How to launch
+Firstly you have to install some npm packages by writting `npm install` command
+Secondly do `npm start` command 
