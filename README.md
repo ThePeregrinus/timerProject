@@ -23,3 +23,6 @@ A timer that counts the time that a person spent on studying theory and counts b
 ## Used techologies
 - [React](https://react.dev/) 
 - [Styled components](https://styled-components.com/)
+
+## Screenshots 
+![pic](/screenshots/tm1.jpg?raw=true "")
