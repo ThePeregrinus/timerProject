@@ -17,8 +17,8 @@ A timer that counts the time that a person spent on studying theory and counts b
 - close session
 
 ## Used techologies
-- React 
-- Styled components
+- [React] (https://react.dev/) 
+- [Styled components] (https://styled-components.com/)
 
 ## How to launch
 - Firstly you have to install some npm packages by writting `npm install` command
